@@ -1,1 +1,1 @@
-# Challenge-1--Horiseon-Social-Solutions
+# Challenge-1-Horiseon-Social-Solutions
